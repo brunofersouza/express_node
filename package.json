@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "systemjs-nodelibs": "^1.0.0"
+  },
+  "devDependencies": {},
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunofersouza/express_node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brunofersouza/express_node/issues"
+  },
+  "homepage": "https://github.com/brunofersouza/express_node#readme"
+}
